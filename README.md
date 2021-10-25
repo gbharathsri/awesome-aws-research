@@ -77,6 +77,7 @@ Learn all about core services available for compute, storage, networking, and ho
 - [NIH uses the cloud to accelerate cures](https://www.youtube.com/watch?v=aU63OBxweUU)
 - [Accelerating Time to Science Using Cloud](https://www.youtube.com/watch?v=5Pt-3BK0kJc) 
 - [Enabling Research Using Cloud](https://www.youtube.com/watch?v=yT5cPEWC9Ls&t=131s)
+- [10 minutes cloud tutorials for Research](https://aws.amazon.com/blogs/publicsector/introducing-10-minute-cloud-tutorials-research/)
 
 ## HPC
 
